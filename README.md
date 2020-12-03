@@ -1,2 +1,4 @@
 # reverse_sentence
-A MIPS program that reverses a sentence that it input into it.
+A program where when you input a sentence, it is then reversed
+<b> Program was written in: MIPS Assembly Language </b> <br>
+<b> Program was tested using: QtSpim, MARS MIPS Simulator </b>
